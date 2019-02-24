@@ -36,8 +36,9 @@ nav a {
 	z-index: 9;
 }
 a.active {
-  background-color: #0057BD;
-  pointer-events: none;
+  background-color: #7AFFC7;
+	color: #34495e;
+	pointer-events: none;
 	width: 100%;
 	height: 100%;
 	z-index: 5;
